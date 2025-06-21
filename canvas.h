@@ -6,9 +6,9 @@
 #include <QPainter>
 
 class Canvas {
+public:
     std::vector<Figure*> figures;
 
-public:
     void addFigure(Figure* f);
 
     void draw(QPainter* p);

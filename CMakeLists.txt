@@ -13,11 +13,14 @@ qt_add_executable(YokPainter2
     mainwindow.ui
     canvas.h canvas.cpp
     canvaswidget.h canvaswidget.cpp
-    tool.h tool.cpp
-    toolmanager.h toolmanager.cpp
-    layer.h layer.cpp
+
+
+
     figure.h figure.cpp
-    context.h context.cpp
+    selectionbox.h selectionbox.cpp
+    affine_transform.h affine_transform.cpp
+    enums.h
+
 
 )
 

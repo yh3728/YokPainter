@@ -291,6 +291,12 @@
 	"HEADERS" : 
 	[
 		[
+			"D:/studying/cpp/YokPainter2/affine_transform.h",
+			"MU",
+			"EWIEGA46WW/moc_affine_transform.cpp",
+			null
+		],
+		[
 			"D:/studying/cpp/YokPainter2/canvas.h",
 			"MU",
 			"EWIEGA46WW/moc_canvas.cpp",
@@ -303,9 +309,9 @@
 			null
 		],
 		[
-			"D:/studying/cpp/YokPainter2/context.h",
+			"D:/studying/cpp/YokPainter2/enums.h",
 			"MU",
-			"EWIEGA46WW/moc_context.cpp",
+			"EWIEGA46WW/moc_enums.cpp",
 			null
 		],
 		[
@@ -315,27 +321,15 @@
 			null
 		],
 		[
-			"D:/studying/cpp/YokPainter2/layer.h",
-			"MU",
-			"EWIEGA46WW/moc_layer.cpp",
-			null
-		],
-		[
 			"D:/studying/cpp/YokPainter2/mainwindow.h",
 			"MU",
 			"EWIEGA46WW/moc_mainwindow.cpp",
 			null
 		],
 		[
-			"D:/studying/cpp/YokPainter2/tool.h",
+			"D:/studying/cpp/YokPainter2/selectionbox.h",
 			"MU",
-			"EWIEGA46WW/moc_tool.cpp",
-			null
-		],
-		[
-			"D:/studying/cpp/YokPainter2/toolmanager.h",
-			"MU",
-			"EWIEGA46WW/moc_toolmanager.cpp",
+			"EWIEGA46WW/moc_selectionbox.cpp",
 			null
 		]
 	],
@@ -409,15 +403,13 @@
 	"SETTINGS_FILE" : "D:/studying/cpp/YokPainter2/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/YokPainter2_autogen.dir/AutogenUsed.txt",
 	"SOURCES" : 
 	[
+		[ "D:/studying/cpp/YokPainter2/affine_transform.cpp", "MU", null ],
 		[ "D:/studying/cpp/YokPainter2/canvas.cpp", "MU", null ],
 		[ "D:/studying/cpp/YokPainter2/canvaswidget.cpp", "MU", null ],
-		[ "D:/studying/cpp/YokPainter2/context.cpp", "MU", null ],
 		[ "D:/studying/cpp/YokPainter2/figure.cpp", "MU", null ],
-		[ "D:/studying/cpp/YokPainter2/layer.cpp", "MU", null ],
 		[ "D:/studying/cpp/YokPainter2/main.cpp", "MU", null ],
 		[ "D:/studying/cpp/YokPainter2/mainwindow.cpp", "MU", null ],
-		[ "D:/studying/cpp/YokPainter2/tool.cpp", "MU", null ],
-		[ "D:/studying/cpp/YokPainter2/toolmanager.cpp", "MU", null ]
+		[ "D:/studying/cpp/YokPainter2/selectionbox.cpp", "MU", null ]
 	],
 	"UIC_OPTIONS" : [],
 	"UIC_SEARCH_PATHS" : [],

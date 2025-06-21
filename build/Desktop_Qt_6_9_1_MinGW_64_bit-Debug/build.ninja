@@ -89,30 +89,6 @@ build CMakeFiles/YokPainter2.dir/canvaswidget.cpp.obj: CXX_COMPILER__YokPainter2
   OBJECT_DIR = CMakeFiles\YokPainter2.dir
   OBJECT_FILE_DIR = CMakeFiles\YokPainter2.dir
 
-build CMakeFiles/YokPainter2.dir/tool.cpp.obj: CXX_COMPILER__YokPainter2_unscanned_Debug D$:/studying/cpp/YokPainter2/tool.cpp || cmake_object_order_depends_target_YokPainter2
-  DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
-  DEP_FILE = CMakeFiles\YokPainter2.dir\tool.cpp.obj.d
-  FLAGS = -DQT_QML_DEBUG -g -fdiagnostics-color=always
-  INCLUDES = -ID:/studying/cpp/YokPainter2/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/YokPainter2_autogen/include -isystem D:/Qt/6.9.1/mingw_64/include/QtCore -isystem D:/Qt/6.9.1/mingw_64/include -isystem D:/Qt/6.9.1/mingw_64/mkspecs/win32-g++ -isystem D:/Qt/6.9.1/mingw_64/include/QtWidgets -isystem D:/Qt/6.9.1/mingw_64/include/QtGui
-  OBJECT_DIR = CMakeFiles\YokPainter2.dir
-  OBJECT_FILE_DIR = CMakeFiles\YokPainter2.dir
-
-build CMakeFiles/YokPainter2.dir/toolmanager.cpp.obj: CXX_COMPILER__YokPainter2_unscanned_Debug D$:/studying/cpp/YokPainter2/toolmanager.cpp || cmake_object_order_depends_target_YokPainter2
-  DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
-  DEP_FILE = CMakeFiles\YokPainter2.dir\toolmanager.cpp.obj.d
-  FLAGS = -DQT_QML_DEBUG -g -fdiagnostics-color=always
-  INCLUDES = -ID:/studying/cpp/YokPainter2/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/YokPainter2_autogen/include -isystem D:/Qt/6.9.1/mingw_64/include/QtCore -isystem D:/Qt/6.9.1/mingw_64/include -isystem D:/Qt/6.9.1/mingw_64/mkspecs/win32-g++ -isystem D:/Qt/6.9.1/mingw_64/include/QtWidgets -isystem D:/Qt/6.9.1/mingw_64/include/QtGui
-  OBJECT_DIR = CMakeFiles\YokPainter2.dir
-  OBJECT_FILE_DIR = CMakeFiles\YokPainter2.dir
-
-build CMakeFiles/YokPainter2.dir/layer.cpp.obj: CXX_COMPILER__YokPainter2_unscanned_Debug D$:/studying/cpp/YokPainter2/layer.cpp || cmake_object_order_depends_target_YokPainter2
-  DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
-  DEP_FILE = CMakeFiles\YokPainter2.dir\layer.cpp.obj.d
-  FLAGS = -DQT_QML_DEBUG -g -fdiagnostics-color=always
-  INCLUDES = -ID:/studying/cpp/YokPainter2/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/YokPainter2_autogen/include -isystem D:/Qt/6.9.1/mingw_64/include/QtCore -isystem D:/Qt/6.9.1/mingw_64/include -isystem D:/Qt/6.9.1/mingw_64/mkspecs/win32-g++ -isystem D:/Qt/6.9.1/mingw_64/include/QtWidgets -isystem D:/Qt/6.9.1/mingw_64/include/QtGui
-  OBJECT_DIR = CMakeFiles\YokPainter2.dir
-  OBJECT_FILE_DIR = CMakeFiles\YokPainter2.dir
-
 build CMakeFiles/YokPainter2.dir/figure.cpp.obj: CXX_COMPILER__YokPainter2_unscanned_Debug D$:/studying/cpp/YokPainter2/figure.cpp || cmake_object_order_depends_target_YokPainter2
   DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
   DEP_FILE = CMakeFiles\YokPainter2.dir\figure.cpp.obj.d
@@ -121,9 +97,17 @@ build CMakeFiles/YokPainter2.dir/figure.cpp.obj: CXX_COMPILER__YokPainter2_unsca
   OBJECT_DIR = CMakeFiles\YokPainter2.dir
   OBJECT_FILE_DIR = CMakeFiles\YokPainter2.dir
 
-build CMakeFiles/YokPainter2.dir/context.cpp.obj: CXX_COMPILER__YokPainter2_unscanned_Debug D$:/studying/cpp/YokPainter2/context.cpp || cmake_object_order_depends_target_YokPainter2
+build CMakeFiles/YokPainter2.dir/selectionbox.cpp.obj: CXX_COMPILER__YokPainter2_unscanned_Debug D$:/studying/cpp/YokPainter2/selectionbox.cpp || cmake_object_order_depends_target_YokPainter2
   DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
-  DEP_FILE = CMakeFiles\YokPainter2.dir\context.cpp.obj.d
+  DEP_FILE = CMakeFiles\YokPainter2.dir\selectionbox.cpp.obj.d
+  FLAGS = -DQT_QML_DEBUG -g -fdiagnostics-color=always
+  INCLUDES = -ID:/studying/cpp/YokPainter2/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/YokPainter2_autogen/include -isystem D:/Qt/6.9.1/mingw_64/include/QtCore -isystem D:/Qt/6.9.1/mingw_64/include -isystem D:/Qt/6.9.1/mingw_64/mkspecs/win32-g++ -isystem D:/Qt/6.9.1/mingw_64/include/QtWidgets -isystem D:/Qt/6.9.1/mingw_64/include/QtGui
+  OBJECT_DIR = CMakeFiles\YokPainter2.dir
+  OBJECT_FILE_DIR = CMakeFiles\YokPainter2.dir
+
+build CMakeFiles/YokPainter2.dir/affine_transform.cpp.obj: CXX_COMPILER__YokPainter2_unscanned_Debug D$:/studying/cpp/YokPainter2/affine_transform.cpp || cmake_object_order_depends_target_YokPainter2
+  DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
+  DEP_FILE = CMakeFiles\YokPainter2.dir\affine_transform.cpp.obj.d
   FLAGS = -DQT_QML_DEBUG -g -fdiagnostics-color=always
   INCLUDES = -ID:/studying/cpp/YokPainter2/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/YokPainter2_autogen/include -isystem D:/Qt/6.9.1/mingw_64/include/QtCore -isystem D:/Qt/6.9.1/mingw_64/include -isystem D:/Qt/6.9.1/mingw_64/mkspecs/win32-g++ -isystem D:/Qt/6.9.1/mingw_64/include/QtWidgets -isystem D:/Qt/6.9.1/mingw_64/include/QtGui
   OBJECT_DIR = CMakeFiles\YokPainter2.dir
@@ -137,7 +121,7 @@ build CMakeFiles/YokPainter2.dir/context.cpp.obj: CXX_COMPILER__YokPainter2_unsc
 #############################################
 # Link the executable YokPainter2.exe
 
-build YokPainter2.exe: CXX_EXECUTABLE_LINKER__YokPainter2_Debug CMakeFiles/YokPainter2.dir/YokPainter2_autogen/mocs_compilation.cpp.obj CMakeFiles/YokPainter2.dir/main.cpp.obj CMakeFiles/YokPainter2.dir/mainwindow.cpp.obj CMakeFiles/YokPainter2.dir/canvas.cpp.obj CMakeFiles/YokPainter2.dir/canvaswidget.cpp.obj CMakeFiles/YokPainter2.dir/tool.cpp.obj CMakeFiles/YokPainter2.dir/toolmanager.cpp.obj CMakeFiles/YokPainter2.dir/layer.cpp.obj CMakeFiles/YokPainter2.dir/figure.cpp.obj CMakeFiles/YokPainter2.dir/context.cpp.obj | D$:/Qt/6.9.1/mingw_64/lib/libQt6Widgets.a D$:/Qt/6.9.1/mingw_64/lib/libQt6Gui.a D$:/Qt/6.9.1/mingw_64/lib/libQt6Core.a D$:/Qt/6.9.1/mingw_64/lib/libQt6EntryPoint.a || YokPainter2_autogen YokPainter2_autogen_timestamp_deps
+build YokPainter2.exe: CXX_EXECUTABLE_LINKER__YokPainter2_Debug CMakeFiles/YokPainter2.dir/YokPainter2_autogen/mocs_compilation.cpp.obj CMakeFiles/YokPainter2.dir/main.cpp.obj CMakeFiles/YokPainter2.dir/mainwindow.cpp.obj CMakeFiles/YokPainter2.dir/canvas.cpp.obj CMakeFiles/YokPainter2.dir/canvaswidget.cpp.obj CMakeFiles/YokPainter2.dir/figure.cpp.obj CMakeFiles/YokPainter2.dir/selectionbox.cpp.obj CMakeFiles/YokPainter2.dir/affine_transform.cpp.obj | D$:/Qt/6.9.1/mingw_64/lib/libQt6Widgets.a D$:/Qt/6.9.1/mingw_64/lib/libQt6Gui.a D$:/Qt/6.9.1/mingw_64/lib/libQt6Core.a D$:/Qt/6.9.1/mingw_64/lib/libQt6EntryPoint.a || YokPainter2_autogen YokPainter2_autogen_timestamp_deps
   FLAGS = -DQT_QML_DEBUG -g
   LINK_FLAGS = -mwindows
   LINK_LIBRARIES = D:/Qt/6.9.1/mingw_64/lib/libQt6Widgets.a  D:/Qt/6.9.1/mingw_64/lib/libQt6Gui.a  D:/Qt/6.9.1/mingw_64/lib/libQt6Core.a  -lmpr  -luserenv  -lmingw32  D:/Qt/6.9.1/mingw_64/lib/libQt6EntryPoint.a  -lshell32  -ld3d11  -ldxgi  -ldxguid  -ld3d12  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
